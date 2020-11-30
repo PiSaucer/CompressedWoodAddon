@@ -1,0 +1,56 @@
+{
+	"resource_pack_name": "CWResources",
+	"texture_name": "atlas.terrain",
+	"padding": 8,
+	"num_mip_levels": 4,
+	"texture_data": {
+		"cw_acaica_plank": {
+			"textures": "textures/blocks/cw_acacia_plank"
+		},
+		"cw_acacia": {
+			"textures": "textures/blocks/cw_acacia"
+		},
+		"cw_birch_plank": {
+			"textures": "textures/blocks/cw_birch_plank"
+		},
+		"cw_birch": {
+			"textures": "textures/blocks/cw_birch"
+		},
+		"cw_dark_oak_plank": {
+			"textures": "textures/blocks/cw_dark_oak_plank"
+		},
+		"cw_dark_oak": {
+			"textures": "textures/blocks/cw_dark_oak"
+		},
+		"cw_jungle_plank": {
+			"textures": "textures/blocks/cw_jungle_plank"
+		},
+		"cw_jungle": {
+			"textures": "textures/blocks/cw_jungle"
+		},
+		"cw_oak_plank": {
+			"textures": "textures/blocks/cw_oak_plank"
+		},
+		"cw_oak": {
+			"textures": "textures/blocks/cw_oak"
+		},
+		"cw_spruce_plank": {
+			"textures": "textures/blocks/cw_spruce_plank"
+		},
+		"cw_spruce": {
+			"textures": "textures/blocks/cw_spruce"
+		},
+		"cw_crimson_plank": {
+			"textures": "textures/blocks/huge_fungus/cw_crimson_plank"
+		},
+		"cw_crimson": {
+			"textures": "textures/blocks/huge_fungus/cw_crimson_log"
+		},
+		"cw_warped_plank": {
+			"textures": "textures/blocks/huge_fungus/cw_warped_plank"
+		},
+		"cw_warped": {
+			"textures": "textures/blocks/huge_fungus/cw_warped_log"
+		}
+	}
+}

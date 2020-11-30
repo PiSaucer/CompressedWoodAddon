@@ -1,0 +1,22 @@
+##pack.name=Compressed Wood Resources
+##pack.description=Compressed Wood Resources
+
+tile.cw:cw_acacia_plank.name=Compressed Acacia Planks
+tile.cw:cw_acacia.name=Compressed Acacia Log
+tile.cw:cw_birch_plank.name=Compressed Birch Planks
+tile.cw:cw_birch.name=Compressed Birch Log
+tile.cw:cw_dark_oak_plank.name=Compressed Dark Oak Planks
+tile.cw:cw_dark_oak.name=Compressed Dark Oak Log
+tile.cw:cw_jungle_plank.name=Compressed Jungle Planks
+tile.cw:cw_jungle.name=Compressed Jungle Log
+tile.cw:cw_oak_plank.name=Compressed Oak Planks
+tile.cw:cw_oak.name=Compressed Oak Log
+tile.cw:cw_spruce_plank.name=Compressed Spruce Planks
+tile.cw:cw_spruce.name=Compressed Spruce Log
+tile.cw:cw_crimson_plank.name=Compressed Crimson Planks
+tile.cw:cw_crimson.name=Compressed Crimson Stem
+tile.cw:cw_warped_plank.name=Compressed Warped Planks
+tile.cw:cw_warped.name=Compressed Warped Stem
+
+# Creative Tab
+itemGroup.cw=Compressed Wood

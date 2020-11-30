@@ -1,0 +1,24 @@
+{
+	"format_version": "1.16",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "cc:cw_warped_revert"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"priority": 0,
+		"ingredients": [
+			{
+			"item": "cw:cw_warped",
+			"count": 1
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:warped_stem",
+				"count": 9
+			}
+		]
+	}
+}

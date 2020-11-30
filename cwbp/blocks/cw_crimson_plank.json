@@ -1,0 +1,20 @@
+{
+	"format_version": "1.16.0",
+	"minecraft:block": {
+		"description": {
+			"identifier": "cw:cw_crimson_plank",
+			"is_experimental": false,
+			"register_to_creative_menu": true,
+			"category": "nature"
+		},
+		"components": {
+			"minecraft:destroy_time": 6,
+			"minecraft:explosion_resistance": 10,
+			"minecraft:map_color": "#ebbd34",
+			"minecraft:flammable": {
+				"burn_odds": 0,
+				"flame_odds": 0
+			}
+		}
+	}
+}

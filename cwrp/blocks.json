@@ -1,0 +1,68 @@
+{
+  "format_version": [ 1, 1, 0 ],
+
+  "cw:cw_acacia_plank": {
+    "textures": "cw_acaica_plank",
+    "sound": "wood"
+  },
+  "cw:cw_acacia": {
+    "textures": "cw_acacia",
+    "sound": "wood"
+  },
+  "cw:cw_birch_plank": {
+    "textures": "cw_birch_plank",
+    "sound": "wood"
+  },
+  "cw:cw_birch": {
+    "textures": "cw_birch",
+    "sound": "wood"
+  },
+  "cw:cw_dark_oak_plank": {
+    "textures": "cw_dark_oak_plank",
+    "sound": "wood"
+  },
+  "cw:cw_dark_oak": {
+    "textures": "cw_dark_oak",
+    "sound": "wood"
+  },
+  "cw:cw_jungle_plank": {
+    "textures": "cw_jungle_plank",
+    "sound": "wood"
+  },
+  "cw:cw_jungle": {
+    "textures": "cw_jungle",
+    "sound": "wood"
+  },
+  "cw:cw_oak_plank": {
+    "textures": "cw_oak_plank",
+    "sound": "wood"
+  },
+  "cw:cw_oak": {
+    "textures": "cw_oak",
+    "sound": "wood"
+  },
+  "cw:cw_spruce_plank": {
+    "textures": "cw_spruce_plank",
+    "sound": "wood"
+  },
+  "cw:cw_spruce": {
+    "textures": "cw_spruce",
+    "sound": "wood"
+  },
+  "cw:cw_crimson_plank": {
+    "textures": "cw_crimson_plank",
+    "sound": "wood"
+  },
+  "cw:cw_crimson": {
+    "textures": "cw_crimson",
+    "sound": "wood"
+  },
+  "cw:cw_warped_plank": {
+    "textures": "cw_warped_plank",
+    "sound": "wood"
+  },
+  "cw:cw_warped": {
+    "textures": "cw_warped",
+    "sound": "wood"
+  }
+}

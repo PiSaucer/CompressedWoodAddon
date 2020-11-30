@@ -1,0 +1,27 @@
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "cw:cw_jungle"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"###",
+			"###",
+			"###"
+		],
+		"key": {
+			"#": {
+				"item": "minecraft:log",
+				"data": 3
+			}
+		},
+		"result": [
+			{
+				"item": "cw:cw_jungle"
+			}
+		]
+	}
+}

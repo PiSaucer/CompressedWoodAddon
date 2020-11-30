@@ -1,0 +1,27 @@
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "cw:cw_dark_oak_plank"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"###",
+			"###",
+			"###"
+		],
+		"key": {
+			"#": {
+				"item": "minecraft:planks",
+				"data": 5
+			}
+		},
+		"result": [
+			{
+				"item": "cw:cw_dark_oak_plank"
+			}
+		]
+	}
+}

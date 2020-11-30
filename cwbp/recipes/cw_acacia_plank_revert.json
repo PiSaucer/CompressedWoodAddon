@@ -1,0 +1,25 @@
+{
+	"format_version": "1.16",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "cc:cw_acacia_plank_revert"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"priority": 0,
+		"ingredients": [
+			{
+			"item": "cw:cw_acacia_plank",
+			"count": 1
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:planks",
+				"data": 4,
+				"count": 9
+			}
+		]
+	}
+}

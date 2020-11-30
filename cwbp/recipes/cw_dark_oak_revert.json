@@ -1,0 +1,25 @@
+{
+	"format_version": "1.16",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "cc:cw_dark_oak_revert"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"priority": 0,
+		"ingredients": [
+			{
+			"item": "cw:cw_dark_oak",
+			"count": 1
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:log2",
+				"data": 5,
+				"count": 9
+			}
+		]
+	}
+}

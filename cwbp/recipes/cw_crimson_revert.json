@@ -1,0 +1,24 @@
+{
+	"format_version": "1.16",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "cc:cw_crimson_revert"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"priority": 0,
+		"ingredients": [
+			{
+			"item": "cw:cw_crimson",
+			"count": 1
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:crimson_stem",
+				"count": 9
+			}
+		]
+	}
+}

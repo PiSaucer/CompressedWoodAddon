@@ -1,0 +1,39 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Compressed Wood Behaviors",
+		"description": "Compressed Wood Behaviors",
+		"uuid": "346bef3c-9f42-4846-a7fb-0780fcbed4dc",
+		"version": [
+			1,
+			0,
+			0
+		],
+		"min_engine_version": [
+			1,
+			16,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "196e28db-3288-4f4e-97fc-4d9f25501453",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"version": [
+				1,
+				0,
+				0
+			],
+			"uuid": "457b07fe-d617-4a2e-86a4-c0dc13f8f613"
+		}
+	]
+}
