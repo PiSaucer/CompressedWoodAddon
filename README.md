@@ -1,4 +1,4 @@
-# CompressedWoodAddon
+# Compressed Wood Addon
 ![](background.jpg)
 
 With this addon, anyone will be able to compress any wood into the 16 new blocks that allow for an easier form to carry.
